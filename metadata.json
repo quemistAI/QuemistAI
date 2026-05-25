@@ -1,0 +1,6 @@
+{
+  "name": "Quemist",
+  "description": "An AI tutor for Organic Chemistry 1 and 2, featuring direct photo feedback and detailed chemical explanation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
